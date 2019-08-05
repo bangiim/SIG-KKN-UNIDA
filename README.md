@@ -9,8 +9,9 @@ Anggota Tim:
 3. Sufriadi
 
 Core:<br>
-[Laravel](https://laravel.com/)<br>
-Template Admin by  [Bootstrapdash](https://www.bootstrapdash.com/) 
+<a href="https://laravel.com/" target="blank"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></a><br>
+<a href="https://leafletjs.com/" target="blank"><img src="https://leafletjs.com/docs/images/logo.png" width="200px"></a><br>
+Template by  [Bootstrapdash](https://www.bootstrapdash.com/) 
 
 # Instalasi
 1. Buka command promp lalu ketikkan "
