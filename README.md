@@ -25,6 +25,8 @@ cd sig-kkn-unida
 4. php artisan key:generate
 5. php artisan migrate
 6. php artisan serve
+<br>
 Project is ready.
-
+<br>
+<br>
 <img src="https://i.screenshot.net/z6znzi1" alt="KKN-web" border="0" width="100%">
