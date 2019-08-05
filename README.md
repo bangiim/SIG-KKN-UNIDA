@@ -9,8 +9,8 @@ Anggota Tim:
 3. Sufriadi
 
 Core:<br>
-<a href="https://laravel.com/" target="blank"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></a><br>
-<a href="https://leafletjs.com/" target="blank"><img src="https://leafletjs.com/docs/images/logo.png" width="200px"></a><br>
+<a href="https://laravel.com/" target="_blank"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></a><br>
+<a href="https://leafletjs.com/" target="_blank"><img src="https://leafletjs.com/docs/images/logo.png" width="200px"></a><br>
 Template by  [Bootstrapdash](https://www.bootstrapdash.com/) 
 
 # Instalasi
