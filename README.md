@@ -30,4 +30,5 @@ cd sig-kkn-unida
 Project is ready.
 <br>
 <br>
-<img src="https://i.screenshot.net/z6znzi1" alt="KKN-web" border="0" width="100%">
+
+<img src="https://i.ibb.co/G3mYFHn/KKN-UNIDA-Gontor.png" alt="KKN-UNIDA-Gontor" border="0" />
